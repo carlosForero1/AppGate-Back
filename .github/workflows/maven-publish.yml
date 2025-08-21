@@ -1,8 +1,6 @@
 name: CI - Spring Boot + MySQL
 
 on:
-  pull_request:
-    branches: [ "main" ]
   push:
     branches: [ "main" ]
 
