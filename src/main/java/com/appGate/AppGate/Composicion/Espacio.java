@@ -16,6 +16,8 @@ public class Espacio {
 
     private boolean verdadero ;
 
+    private String apellido;
+
 
 
     public Espacio() {
