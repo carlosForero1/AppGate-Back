@@ -1,0 +1,13 @@
+package com.appGate.AppGate;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AppGateApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AppGateApplication.class, args);
+	}
+
+}
